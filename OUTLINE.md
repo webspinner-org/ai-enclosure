@@ -6,6 +6,7 @@ Twenty-seven chapters across five parts, plus front matter and appendices.
 
 ## Front Matter
 
+- **A Note on Authorship** — The three truths the reader needs at the door: who is writing the book (the author), that the book is being drafted with the help of a rented AI, and how the author is staying the moral compass over the work product. Names the irony; keeps em-dashes deliberately as the AI's tell and the author's flag. Closes on the why-AI pivot and the first statement of the Sovereign Intelligence premise. Short — 2–3 pages.
 - **Foreword** (by John D. Marx) — Personal arc from CGL and Open Systems Group through to Webspinner; why this paper exists; framing the moment as a second PC inflection point. First-person voice. 4–8 pages.
 - **A Note on Terminology** — Why *Synthetic Intelligence* (SI) instead of *Artificial Intelligence* (AI); why *Sovereign Intelligence* names both human and synthetic sovereignty; what the reader should expect from this language. The framing device for the entire book.
 - **Executive Summary** — The crisis in one page; the four pillars; the architecture in a paragraph; the democratization promise; what the reader should take away.
