@@ -210,4 +210,12 @@ The four-surface threat model and the layered defenses described in the chapter 
 
 ---
 
+## Chapter 19 — Environmental Footprints Compared
+
+1. Aldo Leopold, *A Sand County Almanac and Sketches Here and There* (Oxford University Press, 1949). The "Land Ethic" essay closes the volume; the "integrity, stability, and beauty of the biotic community" formulation is the canonical statement of Leopold's ecological ethics. Aldo Leopold Foundation: https://www.aldoleopold.org.
+
+2. Underlying environmental data points (per-query energy, idle-state energy, embodied carbon, water, scaling behavior) are sourced to the citations in Chapters 1 and 6 — IEA *Energy and AI*, Apple Silicon and NVIDIA H100/H200/B200 benchmarks, NVIDIA HGX product carbon footprint disclosures, Ren et al. *Making AI Less Thirsty*, Microsoft 2024 Environmental Sustainability Report, and the data-center PUE references — and are not duplicated here.
+
+---
+
 *Future chapters will be appended below as drafted.*
