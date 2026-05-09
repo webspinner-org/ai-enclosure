@@ -110,4 +110,12 @@ The remaining content of Chapter 7 — federated retrieval (WRAG), BYOK, Cell-le
 
 ---
 
+## Chapter 8 — Sovereign SI: The Ownership Pillar
+
+1. Frederick Douglass, "West India Emancipation," address at Canandaigua, New York, August 1857. Authoritative scholarly edition: John W. Blassingame, ed., *The Frederick Douglass Papers, Series One: Speeches, Debates, and Interviews, Volume 3: 1855–63* (Yale University Press, 1985), p. 204. Original pamphlet: *Two Speeches, By Frederick Douglass: One on West India Emancipation, Delivered at Canandaigua, Aug. 4th, and the Other on the Dred Scott Decision...* (Rochester, NY, 1857). Online text via BlackPast: https://blackpast.org/african-american-history/1857-frederick-douglass-if-there-no-struggle-there-no-progress/. Gilder Lehrman Institute: https://www.gilderlehrman.org/ap-african-american-studies/unit-2/organizing-for-freedom/west-india-emancipation-1857. The "power concedes nothing without a demand" line and the surrounding "if there is no struggle, there is no progress" passage are the most cited portions of the address.
+
+The five rights framework (to own, to inspect, to modify, to refuse, to disconnect) and the architectural-not-contractual sovereignty argument are the Webspinner Foundation's own framing. Reference implementations and technical detail will be cited in Chapter 16 (The Architecture of Sovereignty).
+
+---
+
 *Future chapters will be appended below as drafted.*
