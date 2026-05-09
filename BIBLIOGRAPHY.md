@@ -188,4 +188,16 @@ The six Cell ownership models, the cryptographic-identity and worker-attestation
 
 ---
 
+## Chapter 17 — Privacy by Design
+
+1. Bruce Schneier, "Why Cryptography Is Harder Than It Looks," *Crypto-Gram* (May 15, 1999); archive: https://www.schneier.com/crypto-gram/. Bruce Schneier, *Secrets and Lies: Digital Security in a Networked World* (Wiley, 2000). The "security is a process, not a product" thesis is restated and elaborated throughout both works.
+
+2. Ann Cavoukian, *Privacy by Design: The 7 Foundational Principles* (Information & Privacy Commissioner of Ontario, 2009). https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf. The canonical articulation of the Privacy by Design framework: privacy embedded into design, defaults, full lifecycle, and accountability, rather than retrofitted as compliance.
+
+3. Saltzer & Schroeder design principles for computer security (background reference): J. H. Saltzer and M. D. Schroeder, "The Protection of Information in Computer Systems," *Proceedings of the IEEE*, vol. 63, no. 9 (September 1975), pp. 1278–1308. Foundational paper articulating the eight design principles (economy of mechanism, fail-safe defaults, complete mediation, open design, separation of privilege, least privilege, least common mechanism, psychological acceptability) that anchor the practitioner literature on secure-system architecture.
+
+The four-surface threat model and the layered defenses described in the chapter are the Webspinner Foundation's own architectural specification, building on the standard primitives and design principles cited above.
+
+---
+
 *Future chapters will be appended below as drafted.*
