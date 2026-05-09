@@ -180,4 +180,12 @@ The BYOK protocol mechanics, key management patterns, and multi-provider routing
 
 ---
 
+## Chapter 16 — The Architecture of Sovereignty
+
+1. Lawrence Lessig, *Code and Other Laws of Cyberspace* (Basic Books, 1999); revised and updated as *Code: Version 2.0* (Basic Books, 2006). The "code is law" argument is the book's central thesis. *Code: Version 2.0* is freely available under a Creative Commons license at http://codev2.cc. Lessig's complementary works — *The Future of Ideas* (Random House, 2001), *Free Culture* (Penguin, 2004), *Remix* (Penguin, 2008) — extend the argument to other domains of digital governance.
+
+The six Cell ownership models, the cryptographic-identity and worker-attestation patterns, and the implementation specifics of each of the five rights are the Webspinner Foundation's own architectural specification.
+
+---
+
 *Future chapters will be appended below as drafted.*
