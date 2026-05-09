@@ -162,4 +162,12 @@ The Capability Bus protocol — capability descriptors, invocation envelopes, tr
 
 ---
 
+## Chapter 14 — The Compute Farm: Cold, Warm, Hot
+
+1. David P. Anderson, "BOINC: A System for Public-Resource Computing and Storage," *Proceedings of the 5th IEEE/ACM International Workshop on Grid Computing* (November 2004). https://boinc.berkeley.edu/boinc.pdf. David P. Anderson et al., "SETI@home: An Experiment in Public-Resource Computing," *Communications of the ACM*, vol. 45, no. 11 (November 2002), pp. 56–61. https://dl.acm.org/doi/10.1145/581571.581573. The BOINC project is the canonical demonstration that volunteer-supplied idle compute, intelligently aggregated, constitutes hyperscale-class computing capacity at residential operating cost.
+
+The Compute Farm tier classification (Cold/Warm/Hot), wake-on-demand economics, speculative model spinning, and predictive load shaping are the Webspinner Foundation's own protocol specification, adapting BOINC-style cooperative compute to the synthetic-intelligence use case and to the Capability Bus.
+
+---
+
 *Future chapters will be appended below as drafted.*
