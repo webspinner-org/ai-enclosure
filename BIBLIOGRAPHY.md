@@ -250,4 +250,12 @@ The capability-comparison and orchestration arguments draw on the architectural 
 
 ---
 
+## Chapter 23 — What Democratization Actually Means
+
+1. John Dewey, *Democracy and Education: An Introduction to the Philosophy of Education* (Macmillan, 1916). Project Gutenberg full text: https://www.gutenberg.org/files/852/852-h/852-h.htm. Companion works extending the argument: *The Public and Its Problems* (Henry Holt, 1927); *Liberalism and Social Action* (Putnam, 1935); *Freedom and Culture* (Putnam, 1939). The Dewey corpus remains foundational to democratic theory.
+
+The six dimensions of democratization (access, agency, affordability, authority, sovereignty, conscience) are the Webspinner Foundation's articulation, drawing on the architectural specifications of Parts II and III.
+
+---
+
 *Future chapters will be appended below as drafted.*
