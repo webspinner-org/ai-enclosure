@@ -268,4 +268,12 @@ The six dimensions of democratization (access, agency, affordability, authority,
 
 ---
 
+## Chapter 25 — Webspinner's Role
+
+1. Margaret Mead, attributed. The "small group of thoughtful, committed citizens" line is widely associated with Mead but its specific textual origin in her published work is contested. The Institute for Intercultural Studies has stated that it is consistent with Mead's expressed views without being attributable to a specific publication. Quote Investigator analysis: https://quoteinvestigator.com/2017/11/12/change-world/. Canonical Mead works: *Coming of Age in Samoa* (Morrow, 1928); *Growing Up in New Guinea* (Morrow, 1930); *Male and Female* (Morrow, 1949).
+
+2. The Webspinner Foundation, Webspinner LLC, and Webspinner Cloud commercial-structure framing draws on the established patterns of open-source-stewarding organizations: the Free Software Foundation; the Apache Software Foundation (https://apache.org); the Linux Foundation (https://linuxfoundation.org); the World Wide Web Consortium (https://w3c.org). The Red Hat–style services-around-open-source commercial pattern is referenced as comparable.
+
+---
+
 *Future chapters will be appended below as drafted.*
