@@ -76,4 +76,12 @@ When sources are added or revised, update them here as well as in the chapter fi
 
 ---
 
+## Chapter 5 — Defining Warp
+
+1. R. Buckminster Fuller, attributed. Best primary anchor: Mike Vance and Diane Deacon, *Think Out of the Box* (Career Press, 1995), p. 138, "Profile in creativity: Dr R. Buckminster Fuller," drawing on Vance's pre-1983 interviews with Fuller. The quotation has been re-quoted with minor variations in Daniel Quinn, *Beyond Civilization* (Crown, 1999); Kate Raworth, *Doughnut Economics* (Chelsea Green, 2017); and many subsequent works. Wikiquote talk page on Fuller (provenance discussion): https://en.wikiquote.org/wiki/Talk:Buckminster_Fuller. Quote Investigator analysis: https://quoteinvestigator.com/2024/08/18/change-obsolete/
+
+The architectural specification material in Chapter 5 (Cells, Loom, Weaver, Grimoire, Capability Bus, federation, BYOK) is the Webspinner Foundation's own work and is not externally sourced. Reference implementations and technical documentation for the architecture will be cited in Chapters 11–17.
+
+---
+
 *Future chapters will be appended below as drafted.*
