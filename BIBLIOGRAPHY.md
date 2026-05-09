@@ -200,4 +200,14 @@ The four-surface threat model and the layered defenses described in the chapter 
 
 ---
 
+## Chapter 18 — Cost Architectures Compared
+
+1. Peter F. Drucker, *Managing for Results: Economic Tasks and Risk-Taking Decisions* (Harper & Row, 1964; reissued HarperCollins 1986). Companion works: *The Practice of Management* (Harper & Row, 1954); *The Effective Executive* (Harper & Row, 1967). Drucker's "costs exist to be reduced" framing of cost as a property of structural choice rather than measurement is the conceptual anchor for the chapter.
+
+2. The hyperscale-side cost data points (capex 2025/2026, debt issuance, Stargate scale, GPU pricing, electricity, water, PUE, embodied carbon, training-cost trajectory, frontier-inference benchmarks) are sourced to the citations in Chapters 1, 2, 6, and 15 and are not duplicated here.
+
+3. The Warp-side cost arithmetic (Apple Silicon power, BYOK pricing, residential electricity rates, hardware amortization) draws on the benchmarks and pricing references cited in Chapters 6 and 15.
+
+---
+
 *Future chapters will be appended below as drafted.*
