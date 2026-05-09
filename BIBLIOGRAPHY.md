@@ -66,4 +66,14 @@ When sources are added or revised, update them here as well as in the chapter fi
 
 ---
 
+## Chapter 4 — The Lessons of Computing History
+
+1. Stewart Brand, remarks at the first Hackers Conference, Fort Cronkhite, California, November 1984, in conversation with Steve Wozniak. "Information wants to be free" (Wikipedia), full provenance and surviving footage references: https://en.wikipedia.org/wiki/Information_wants_to_be_free. Quote Investigator, "Quote Origin: Information Wants To Be Expensive. Information Wants To Be Free" (March 9, 2018): https://quoteinvestigator.com/2018/03/09/info/. Steven Levy, *Hackers: Heroes of the Computer Revolution* (Doubleday, 1984; updated edition O'Reilly, 2010) — the canonical narrative of the era and the source of the popular paraphrase.
+
+2. *United States v. International Business Machines Corp.*, S.D.N.Y. Civ. No. 69-200 (filed January 17, 1969; trial began May 19, 1975; case withdrawn January 8, 1982). U.S. Department of Justice Antitrust Division, "United States' Memorandum on the 1969 Case": https://www.justice.gov/atr/case-document/united-states-memorandum-1969-case. Stanford CS course material on IBM regulation: https://cs.stanford.edu/people/eroberts/cs181/projects/corporate-monopolies/government_ibm.html. Truth on the Market, "The Ghosts of Antitrust Past: Part 2 (IBM)" (February 3, 2020): https://truthonthemarket.com/2020/02/03/the-ghosts-of-antitrust-past-part-2-ibm/. The "without merit" characterization is from Assistant Attorney General William F. Baxter's January 8, 1982 announcement.
+
+3. "Homebrew Computer Club" (Wikipedia): https://en.wikipedia.org/wiki/Homebrew_Computer_Club. FoundSF, "Homebrew Computer Club": https://www.foundsf.org/Homebrew_Computer_Club. The club met from March 5, 1975 through December 1986; founders Gordon French and Fred Moore convened the first meeting at French's Menlo Park garage; Lee Felsenstein moderated subsequent meetings. The first newsletter appeared March 15, 1975 and continued for 21 issues through December 1977. Steven Levy, *Hackers* (cited in note 1), provides the canonical narrative.
+
+---
+
 *Future chapters will be appended below as drafted.*
