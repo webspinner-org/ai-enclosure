@@ -218,4 +218,12 @@ The four-surface threat model and the layered defenses described in the chapter 
 
 ---
 
+## Chapter 20 — Privacy Postures Compared
+
+1. Helen Nissenbaum, *Privacy in Context: Technology, Policy, and the Integrity of Social Life* (Stanford University Press, 2010). Foundational paper: Helen Nissenbaum, "Privacy as Contextual Integrity," *Washington Law Review*, vol. 79 (2004), pp. 119–158. Companion work on practical privacy strategies: Finn Brunton and Helen Nissenbaum, *Obfuscation: A User's Guide for Privacy and Protest* (MIT Press, 2015). The contextual-integrity framework anchors much of the contemporary privacy-scholarship literature.
+
+2. The data-flow tracings, compliance surfaces (HIPAA, attorney-client privilege, GDPR/CCPA), and legal-exposure analysis draw on the citations in Chapters 3 and 7 (particularly the Italian Garante decision, NYT v OpenAI preservation order, and Cypherpunk Manifesto framing) and on standard practitioner references in privacy law not separately cited here.
+
+---
+
 *Future chapters will be appended below as drafted.*
