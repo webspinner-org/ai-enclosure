@@ -152,4 +152,14 @@ The WRAG pipeline (query understanding, retrieval, re-ranking, context assembly,
 
 ---
 
+## Chapter 13 — The Capability Bus
+
+1. Jon Postel, ed., "Transmission Control Protocol — DARPA Internet Program — Protocol Specification," RFC 793, USC/Information Sciences Institute (September 1981), §2.10. https://datatracker.ietf.org/doc/html/rfc793. The robustness principle was restated in R. Braden, ed., "Requirements for Internet Hosts — Communication Layers," RFC 1122 (October 1989). https://datatracker.ietf.org/doc/html/rfc1122. Both are foundational documents of the modern Internet protocol stack.
+
+2. Pub/sub messaging patterns referenced as influencing the Capability Bus design: NATS (https://nats.io); Apache Kafka (https://kafka.apache.org); RabbitMQ (https://www.rabbitmq.com); MQTT (https://mqtt.org). These are open-source/standardized projects that established the production patterns for distributed event streaming in the cloud era.
+
+The Capability Bus protocol — capability descriptors, invocation envelopes, transport patterns, worker subscription, decentralized routing — is the Webspinner Foundation's own specification.
+
+---
+
 *Future chapters will be appended below as drafted.*
