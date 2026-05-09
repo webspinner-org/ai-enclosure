@@ -102,4 +102,12 @@ The 8–10× cumulative-advantage figure used in the chapter prose is the Webspi
 
 ---
 
+## Chapter 7 — Confidential SI: The Privacy Pillar
+
+1. Eric Hughes, *A Cypherpunk's Manifesto* (March 9, 1993). Originally circulated on the cypherpunks mailing list. Canonical text via activism.net: https://www.activism.net/cypherpunk/manifesto.html. Nakamoto Institute archive (plain-text): https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt. The "privacy is the power to selectively reveal oneself to the world" passage is the manifesto's working definition and is widely reprinted.
+
+The remaining content of Chapter 7 — federated retrieval (WRAG), BYOK, Cell-level isolation, sensitivity-aware routing — is the Webspinner Foundation's own architectural specification. Reference implementations and technical documentation will be cited in Chapters 11–17.
+
+---
+
 *Future chapters will be appended below as drafted.*
