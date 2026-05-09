@@ -10,35 +10,48 @@ Generates the book's illustrations from `ILLUSTRATIONS.md` using OpenAI's image 
 
 ### One-time setup
 
+On modern macOS the system Python (Homebrew or otherwise) refuses `pip install` outside a virtualenv ([PEP 668](https://peps.python.org/pep-0668/)). The project ships a local `.venv/` for that reason.
+
 ```bash
-pip install openai
+# from the repo root, one time only:
+python3 -m venv .venv
+.venv/bin/pip install --upgrade pip
+.venv/bin/pip install -r requirements.txt
+
+# every shell session that will run the agent:
 export OPENAI_API_KEY=sk-...
 ```
+
+You can either run the script through the venv's Python directly (`.venv/bin/python agents/illustrate.py ...`) or activate the venv first (`source .venv/bin/activate`) and then call `python agents/illustrate.py ...`. The examples below show the direct-path form because it's robust against forgetting to activate.
+
+`.venv/` and `requirements.txt` are at the repo root; the venv is gitignored, the requirements file is tracked.
 
 ### Common commands
 
 ```bash
 # See every illustration the manifest knows about
-python agents/illustrate.py --list
+.venv/bin/python agents/illustrate.py --list
 
 # Print the prompts that would be sent, without calling the API
-python agents/illustrate.py --dry-run
+.venv/bin/python agents/illustrate.py --dry-run
 
 # Generate just the cover (or any single slug from --list)
-python agents/illustrate.py --only cover
+.venv/bin/python agents/illustrate.py --only cover
 
 # Generate everything that isn't already on disk
-python agents/illustrate.py
+.venv/bin/python agents/illustrate.py
 
 # Regenerate something that already exists
-python agents/illustrate.py --only cover --force
+.venv/bin/python agents/illustrate.py --only cover --force
 
 # Generate at higher quality (more expensive)
-python agents/illustrate.py --quality high
+.venv/bin/python agents/illustrate.py --quality high
 
 # Use the older DALL·E 3 model instead of gpt-image-1
-python agents/illustrate.py --model dall-e-3
+.venv/bin/python agents/illustrate.py --model dall-e-3
 ```
+
+If you've activated the venv (`source .venv/bin/activate`), drop the `.venv/bin/` prefix and just say `python`.
 
 ### What it does
 
