@@ -286,4 +286,14 @@ The Foundation Pledge and the Cell Operator Covenant articulated in this chapter
 
 ---
 
-*Future chapters will be appended below as drafted.*
+## Chapter 27 — The Path Forward
+
+1. *Tao Te Ching*, attributed to Lao Tzu, c. 6th–4th century BCE. The "journey of a thousand li" passage is in Chapter 64 (千里之行，始于足下). Canonical English translations: D. C. Lau, *Tao Te Ching* (Penguin Classics, 1963); Ursula K. Le Guin with J. P. Seaton, *Lao Tzu: Tao Te Ching* (Shambhala, 1997); Stephen Mitchell, *Tao Te Ching: A New English Version* (Harper & Row, 1988). Stanford Encyclopedia of Philosophy on the *Laozi*: https://plato.stanford.edu/entries/laozi/.
+
+2. The early-Cell examples (medical practice, civil-rights organization, library system, agricultural cooperative, working professional) are illustrative composites and direct accounts from the Foundation's early-adopter cohort, anonymized at the participants' request.
+
+3. The technical milestones, adoption roadmap, and community-building targets are the Webspinner Foundation's working plan as of 2026 and are subject to the realities of small-team engineering and community-led adoption.
+
+---
+
+*Manuscript draft complete. The bibliography will be revised in subsequent passes alongside chapter revisions; entries with placeholder details (dates approximate, working estimates flagged in the chapter footnotes) should be verified against primary sources before press.*
