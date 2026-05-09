@@ -126,4 +126,12 @@ The remaining content of Chapter 9 — the prevented uses, the consent-of-the-go
 
 ---
 
+## Chapter 10 — The Value Triangle
+
+1. W. Edwards Deming, *Out of the Crisis* (Cambridge, MA: MIT Center for Advanced Engineering Study, 1982; reissued by MIT Press, 2000). https://mitpress.mit.edu/9780262541152/out-of-the-crisis/. Internet Archive scan of the original edition: https://archive.org/details/outofcrisisquali00demi. The "chain reaction" passage — improving quality reduces costs, increases productivity, improves competitive position — is among the most cited in twentieth-century management literature and is the conceptual through-line of Deming's "14 Points for Management."
+
+The unit-economics, latency, and quality arguments in Chapter 10 are the Webspinner Foundation's own working analysis, drawing on the public benchmarks cited in Chapter 6 (Apple Silicon power and throughput, NVIDIA H100/H200 power, hyperscale inference cost benchmarks) and on the contractual-pricing comparisons readily available from the major hyperscale services' published price sheets.
+
+---
+
 *Future chapters will be appended below as drafted.*
