@@ -226,4 +226,16 @@ The four-surface threat model and the layered defenses described in the chapter 
 
 ---
 
+## Chapter 21 — Capability and Quality Compared
+
+1. Alan Kay, attributed remark at Xerox PARC c. 1971. The phrase "the best way to predict the future is to invent it" is widely associated with Kay's PARC work and has been quoted by Kay himself in subsequent interviews and retrospectives. Background on Kay and the PARC era: Michael A. Hiltzik, *Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age* (HarperBusiness, 1999); Douglas K. Smith and Robert C. Alexander, *Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer* (William Morrow, 1988).
+
+2. Stanford AI Index 2025 model-convergence findings (top-vs-tenth benchmark gap narrowing from 11.9% to 5.4%) — citation in Chapter 2 bibliography.
+
+3. Open-weight model lineage referenced in the chapter (Llama, Mistral, DeepSeek, Qwen) — see model providers' published release notes and benchmark publications, available through their respective project pages.
+
+The capability-comparison and orchestration arguments draw on the architectural specification of Chapters 5, 11, 12, and 15 (Warp, Cells, WRAG, BYOK).
+
+---
+
 *Future chapters will be appended below as drafted.*
