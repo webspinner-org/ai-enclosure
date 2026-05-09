@@ -118,4 +118,12 @@ The five rights framework (to own, to inspect, to modify, to refuse, to disconne
 
 ---
 
+## Chapter 9 — Moral AI: The Ethical Pillar
+
+1. C. S. Lewis, *The Abolition of Man, or Reflections on Education with Special Reference to the Teaching of English in the Upper Forms of Schools* (Oxford University Press, 1943). The work originated as the three Riddell Memorial Lectures delivered at King's College, Newcastle (then part of the University of Durham), on February 24–26, 1943. The "each new power won by man is a power over man as well" passage is from the third lecture, also titled "The Abolition of Man." Online text via American Literature: https://americanliterature.com/author/cs-lewis/essay/the-abolition-of-man-lecture. Wikipedia overview: https://en.wikipedia.org/wiki/The_Abolition_of_Man. Free PDF (older edition): https://www.basicincome.com/bp/files/The_Abolition_of_Man-C_S_Lewis.pdf
+
+The remaining content of Chapter 9 — the prevented uses, the consent-of-the-governed framing, and the threading of AI-safety paternalism against open-source anarchism — is the Webspinner Foundation's own framing, and is grounded in the architectural sovereignty of Chapter 8 plus the diagnostic chapters of Part I.
+
+---
+
 *Future chapters will be appended below as drafted.*
