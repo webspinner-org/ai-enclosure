@@ -276,4 +276,14 @@ The six dimensions of democratization (access, agency, affordability, authority,
 
 ---
 
+## Chapter 26 — The Cooperative Ethic
+
+1. Peter Kropotkin, *Mutual Aid: A Factor of Evolution* (William Heinemann, 1902). Project Gutenberg: https://www.gutenberg.org/files/4341/4341-h/4341-h.htm. Companion works: *The Conquest of Bread* (1892); *Fields, Factories and Workshops* (1899); *Memoirs of a Revolutionist* (1899).
+
+2. International Cooperative Alliance, *Statement on the Cooperative Identity* (1995). https://www.ica.coop/en/cooperatives/cooperative-identity. The codification of the seven cooperative principles — voluntary and open membership, democratic member control, member economic participation, autonomy and independence, education and training, cooperation among cooperatives, concern for community — descended from the Rochdale Pioneers' founding principles (1844). Background: Brett Fairbairn, *The Meaning of Rochdale: The Rochdale Pioneers and the Co-operative Principles* (Centre for the Study of Co-operatives, University of Saskatchewan, 1994).
+
+The Foundation Pledge and the Cell Operator Covenant articulated in this chapter are the Webspinner Foundation's own commitments and are subject to revision through the governance procedures the Foundation will publish with the next architecture release.
+
+---
+
 *Future chapters will be appended below as drafted.*
