@@ -6,7 +6,6 @@ Threads identified but not yet resolved. Promote items to `DECISIONS.md` once se
 
 ## Strategic / Editorial
 
-- **License for the manuscript.** Creative Commons (CC-BY-SA aligns with the cooperative ethic), all rights reserved, or a custom Foundation license. Implications for publishing economics and movement-building.
 - **Publishing path.** Self-publish via the Webspinner Foundation? Traditional publisher? Hybrid? Each option carries a different distribution strategy.
 - **Companion materials.** Workbook? Video series? Short policy paper for legislative audiences? Talk circuit?
 - **Outside foreword.** Should we invite a foreword from a respected outside voice (a PC-era figure, a technologist-turned-critic, an ethicist) in addition to the author's foreword?

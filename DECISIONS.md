@@ -36,3 +36,13 @@ A dated record of editorial and structural decisions for *AI Enclosure*. Append-
 - `CLAUDE.md` is read before every Claude Code session.
 - One chapter per file in `chapters/`.
 - Decisions recorded here with dates. Open questions tracked in `OPEN_QUESTIONS.md`.
+
+---
+
+## 2026-05-09 — Manuscript License
+
+### License
+- **Locked:** Creative Commons Attribution 4.0 International (CC BY 4.0).
+- Rationale: aligns with the cooperative ethic of the Foundation — readers and downstream authors may share, adapt, and build commercially, provided attribution is given. Movement-building is better served by maximum reach than by retention of exclusive rights.
+- The CC-BY-SA option was considered for its share-alike copyleft, but the lower-friction CC BY was chosen so that derivative works (talks, courses, policy briefs, translations) can adopt whatever license fits their venue without forcing a copyleft cascade.
+- LICENSE.md and README.md reflect this choice; this entry resolves the corresponding line in `OPEN_QUESTIONS.md`.
