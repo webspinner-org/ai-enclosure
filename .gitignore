@@ -1,2 +1,13 @@
 .DS_Store
 **/.DS_Store
+
+# Generated illustrations from agents/illustrate.py
+# Move chosen final images out of ai-images/ before committing artwork,
+# or remove this entry once the final illustrations are ready to ship.
+ai-images/
+
+# Python virtual environments and cache
+__pycache__/
+*.pyc
+.venv/
+venv/
