@@ -258,4 +258,14 @@ The six dimensions of democratization (access, agency, affordability, authority,
 
 ---
 
+## Chapter 24 — The PC Parallel, Examined Carefully
+
+1. George Santayana, *The Life of Reason: Or, the Phases of Human Progress*, Volume I: *Reason in Common Sense* (Charles Scribner's Sons, 1905). Project Gutenberg: https://www.gutenberg.org/files/15000/15000-h/15000-h.htm. Companion volumes: *Reason in Society* (1905), *Reason in Religion* (1905), *Reason in Art* (1905), *Reason in Science* (1906). Broader corpus: *The Sense of Beauty* (1896), *Scepticism and Animal Faith* (1923), *Realms of Being* tetralogy (1927–1940).
+
+2. PC-era references: Steven Levy, *Hackers* (cited in Chapter 4 bibliography); Ted Nelson, *Computer Lib / Dream Machines* (Hugo's Book Service, 1974); Stewart Brand, ed., *The Whole Earth Catalog* (Portola Institute, 1968 onward); IBM antitrust documentation (cited in Chapter 4).
+
+3. Open-weight model lineage and the contemporary builder community references continue from Chapters 5, 11, and 21's bibliography entries.
+
+---
+
 *Future chapters will be appended below as drafted.*
