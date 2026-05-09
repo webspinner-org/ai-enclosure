@@ -34,4 +34,22 @@ When sources are added or revised, update them here as well as in the chapter fi
 
 ---
 
+## Chapter 2 — The Concentration Problem
+
+1. A. J. Liebling, "The Wayward Press: Do You Belong in Journalism?" *The New Yorker*, May 14, 1960, pages 105–109. The famous line — "Freedom of the press is guaranteed only to those who own one" — is a parenthetical aside in a longer piece on a publishers' convention. Provenance discussion: Quote Investigator, "Quote Origin: Freedom of the Press Is Guaranteed Only to Those Who Own One" (May 21, 2015). https://quoteinvestigator.com/2015/05/21/free-press/
+
+2. Ben Cottier, Robi Rahman, et al., "The Rising Costs of Training Frontier AI Models," arXiv:2405.21015 (May 2024, revised). https://arxiv.org/abs/2405.21015. Updated frontier-training cost dataset maintained by Epoch AI: https://epochai.org. The 2.4x-per-year cost growth figure (90% CI 2.0x–2.9x) is the paper's headline finding; the paper distinguishes compute-only cost from broader development cost (hardware amortization, staff, energy).
+
+3. Jeremy Kahn, "Why the cost of training AI could soon become too much to bear," *Fortune* (April 4, 2024). https://fortune.com/2024/04/04/ai-training-costs-how-much-is-too-much-openai-gpt-anthropic-microsoft/. Includes Dario Amodei's public statements on the trajectory of frontier training costs toward $1 billion per run in the near term and $10 billion runs within roughly two years.
+
+4. Cottier, Rahman, et al. (note 2); *Fortune* (note 3); PYMNTS, "AI Cheat Sheet: Large Language Foundation Model Training Costs" (2025). https://www.pymnts.com/artificial-intelligence-2/2025/ai-cheat-sheet-large-language-foundation-model-training-costs/
+
+5. Stanford Institute for Human-Centered AI (HAI), *Artificial Intelligence Index Report 2025* (Stanford University, 2025). https://hai.stanford.edu/ai-index/2025-ai-index-report. Full PDF: https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf. Key figures used in the chapter: industry's ~90 percent share of notable AI models in 2024 (up from ~60 percent in 2023); 5-month doubling of training compute; 8-month doubling of dataset size; annual doubling of training power consumption.
+
+6. U.S. Federal Trade Commission, *Partnerships Between Cloud Service Providers and AI Developers: FTC Staff Report on AI Partnerships and Investments Section 6(b) Study* (January 2025). Full report (redacted): https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted.pdf. FTC press release: "FTC Issues Staff Report on AI Partnerships & Investments Study" (January 17, 2025). https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study. The cumulative >$20 billion partnership-investment figure and the "lock-in / key AI inputs / sensitive information" framing are from the report and the Chair's accompanying statement.
+
+7. Office of Senator Elizabeth Warren, "Warren, Wyden Launch Investigation into Google, Microsoft Partnerships with AI Developers Anthropic, OpenAI" (2024). https://www.warren.senate.gov/news/press-releases/warren-wyden-launch-investigation-into-google-microsoft-partnerships-with-ai-developers-anthropic-openai
+
+---
+
 *Future chapters will be appended below as drafted.*
