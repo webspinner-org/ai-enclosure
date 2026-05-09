@@ -142,4 +142,14 @@ The Cell architecture (three roles, four composition options, federation pattern
 
 ---
 
+## Chapter 12 — WRAG: Webspinner Retrieval-Augmented Grounding
+
+1. Vannevar Bush, "As We May Think," *The Atlantic Monthly*, July 1945. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/. Foundational essay on personal augmented retrieval; introduced the memex concept as the conceptual ancestor of personal information systems.
+
+2. Lineage of memex/augmentation: Douglas C. Engelbart, *Augmenting Human Intellect: A Conceptual Framework*, SRI Summary Report AFOSR-3223 (October 1962); Theodor H. Nelson, "Complex information processing: a file structure for the complex, the changing and the indeterminate," in *Proceedings of the 20th National Conference, ACM* (1965).
+
+The WRAG pipeline (query understanding, retrieval, re-ranking, context assembly, inference, grounding verification, response delivery) and the federated retrieval primitives are the Webspinner Foundation's own protocol specification.
+
+---
+
 *Future chapters will be appended below as drafted.*
