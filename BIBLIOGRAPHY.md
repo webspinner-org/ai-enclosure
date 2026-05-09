@@ -134,4 +134,12 @@ The unit-economics, latency, and quality arguments in Chapter 10 are the Webspin
 
 ---
 
+## Chapter 11 — Cells: The Building Block
+
+1. Christopher Alexander, Sara Ishikawa, Murray Silverstein, with Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel, *A Pattern Language: Towns, Buildings, Construction* (Oxford University Press, 1977). The "pattern" definition is from the book's introduction and is reiterated in the companion volume Christopher Alexander, *The Timeless Way of Building* (Oxford University Press, 1979). Pattern-language influence on software engineering: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software* (Addison-Wesley, 1994).
+
+The Cell architecture (three roles, four composition options, federation patterns, identity model) is the Webspinner Foundation's own specification. Reference implementations and protocol documentation will be published with the architecture release.
+
+---
+
 *Future chapters will be appended below as drafted.*
