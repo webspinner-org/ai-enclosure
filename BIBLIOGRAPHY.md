@@ -238,4 +238,16 @@ The capability-comparison and orchestration arguments draw on the architectural 
 
 ---
 
+## Chapter 22 — What Centralized AI Is Used For — and What Warp Refuses
+
+1. Joseph Weizenbaum, *Computer Power and Human Reason: From Judgment to Calculation* (W. H. Freeman, 1976). Foundational ethics-of-computing critique; the "some human functions for which it is inappropriate to substitute computer systems" argument is the chapter's anchor.
+
+2. JWCC contract: U.S. Department of Defense Joint Warfighting Cloud Capability awards, December 2022. FedScoop, "Pentagon awards AWS, Google, Microsoft and Oracle spots on Joint Warfighting Cloud Capability solicitation" (December 8, 2022). https://fedscoop.com/pentagon-awards-aws-google-microsoft-and-oracle-spots-on-joint-warfighting-cloud-capability-solicitation/. Microsoft blog, "Microsoft continues commitment to US Department of Defense with JWCC selection" (December 8, 2022). https://blogs.microsoft.com/blog/2022/12/08/microsoft-continues-commitment-to-us-department-of-defense-with-jwcc-selection/. Microsoft federal services overview: https://learn.microsoft.com/en-us/compliance/us-government/gov-jwcc. TechCrunch, "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks" (May 2026).
+
+3. OpenAI policy change: Sam Biddle, "OpenAI Quietly Deletes Ban on Using ChatGPT for 'Military and Warfare,'" *The Intercept* (January 12, 2024). https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/. CNBC, "OpenAI quietly removes ban on military use of its AI tools" (January 16, 2024). https://www.cnbc.com/2024/01/16/openai-quietly-removes-ban-on-military-use-of-its-ai-tools.html. TechCrunch, "OpenAI changes policy to allow military applications" (January 12, 2024). https://techcrunch.com/2024/01/12/openai-changes-policy-to-allow-military-applications/.
+
+4. Anthropic-Palantir-AWS partnership and DoD contract: Palantir IR, "Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations" (November 2024). https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/. TechCrunch, "Anthropic teams up with Palantir and AWS to sell AI to defense customers" (November 7, 2024). https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/. Anthropic press release on $200M DoD contract (2025). https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations. 2026 contract dispute: Euronews, "Why AI company Anthropic and the US are at a standoff over a military contract" (February 2026); EFF, "The Anthropic-DOD Conflict: Privacy Protections Shouldn't Depend On the Decisions of a Few Powerful People" (March 2026), https://www.eff.org/deeplinks/2026/03/anthropic-dod-conflict-privacy-protections-shouldnt-depend-decisions-few-powerful.
+
+---
+
 *Future chapters will be appended below as drafted.*
