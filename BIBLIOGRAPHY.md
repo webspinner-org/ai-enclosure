@@ -170,4 +170,14 @@ The Compute Farm tier classification (Cold/Warm/Hot), wake-on-demand economics, 
 
 ---
 
+## Chapter 15 — BYOK and the Inversion of Economics
+
+1. Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (London: W. Strahan and T. Cadell, 1776), Book I, Chapter II. Authoritative scholarly edition: R. H. Campbell and A. S. Skinner, eds., *The Glasgow Edition of the Works and Correspondence of Adam Smith*, Volume II (Oxford University Press, 1976; Liberty Fund reprint 1981). Online text via Library of Economics and Liberty: https://www.econlib.org/library/Smith/smWN.html. The "butcher, brewer, baker" passage is the foundational statement of self-interest as the engine of voluntary exchange.
+
+2. Hyperscale margin estimates for consumer-tier synthetic-intelligence subscriptions: aggregated from SemiAnalysis InferenceX benchmarks (https://semianalysis.com), CreditSights, and MUFG analyst commentary cited in the Chapter 2 bibliography. Specific operator margins are not disclosed; the 1.7×–3.3× premium range used in the chapter is a working estimate from per-token inference cost benchmarks and published consumer-tier subscription pricing. Verify against current analyst notes before press.
+
+The BYOK protocol mechanics, key management patterns, and multi-provider routing logic are the Webspinner Foundation's own specification.
+
+---
+
 *Future chapters will be appended below as drafted.*
